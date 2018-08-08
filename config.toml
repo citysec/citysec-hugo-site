@@ -33,11 +33,11 @@ pygmentsCodefencesGuessSyntax = true
   #desc = "Sphere"
   position = "center top"     # position: see values of CSS background-position.
 
-#[Author]
+[Author]
 #  name = "Some Person"
 #  website = "yourwebsite.com"
 #  email = "youremail@domain.com"
-#  github = "username"
+github = "citysec"
 #  gitlab = "username"
 #  bitbucket = "username"
 #  twitter = "username"
