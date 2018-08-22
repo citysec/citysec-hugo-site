@@ -1,6 +1,6 @@
 ---
 title: resources
-subtitle: ...because reading is what? fundemental.
+subtitle: ...because reading is what? fundamental.
 comments: false
 ---
 ![rupaul the library is open](/img/rupaul-library-is-open.gif)
