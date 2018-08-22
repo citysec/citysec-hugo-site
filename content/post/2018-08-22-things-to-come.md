@@ -1,6 +1,6 @@
 ---
 title: "Things to Come"
-subtitle: "Hello World"
+subtitle: "./hello_world.sh"
 date: 2018-08-22T00:00:00-05:00
 tags: ["plans", "events", "linux"]
 ---
