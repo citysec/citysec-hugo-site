@@ -18,8 +18,8 @@ pygmentsCodefencesGuessSyntax = true
 [Params]
   #homeTitle = "cybersecurity at city" # Set a different text for the header on the home page
   #subtitle = "you a hacker now baby"
-  logo = "img/logo-box-800-raised.png"
-  favicon = "img/favicon.ico"
+  logo = "/img/lock-icon-avatar-bw-422x422.png"
+  favicon = "/img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
@@ -30,7 +30,7 @@ pygmentsCodefencesGuessSyntax = true
   gcse = "009810452597696223009:mpr435y0lus" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 [[Params.bigimg]]
-  src = "img/sphere.jpg"
+  src = "img/circuit-board-top-bar.jpg"
   #desc = "Sphere"
   position = "center top"     # position: see values of CSS background-position.
 
