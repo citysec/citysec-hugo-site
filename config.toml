@@ -3,6 +3,7 @@ languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "citySec"
 theme = "beautifulhugo"
+enableEmoji = true
 
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
