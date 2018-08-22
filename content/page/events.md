@@ -1,10 +1,11 @@
 ---
-title: Events
+title: events
 comments: false
 ---
 
-## Weekly Meeting Info
-+ **Mondays 6p - 9p** (check slack channel for location)
+## weekly meeting info
++ **mondays 6p - 9p** (starting September 10th, 2018)
++ check [slack channel](https://join.slack.com/t/citysecnyc/shared_invite/enQtMzk1NTcyMDQxODkwLTY1NmE2MDZkZjJhZWIxNGNmNWVjMjUwNDc3M2I3YmRiYmQ0NDBlMjk0Zjc4MzNhY2JiYjUzMWNmYTE0MjkyYzI) for location
 
-## Special Events
-+ None yet
+## special events
++ none yet

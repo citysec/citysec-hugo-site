@@ -1,24 +1,24 @@
 ---
-title: Resources
-subtitle: ...because reading is what? Fundemental.
+title: resources
+subtitle: ...because reading is what? fundemental.
 comments: false
 ---
-![Rupaul The Library Is Open](/img/rupaul-library-is-open.gif)
+![rupaul the library is open](/img/rupaul-library-is-open.gif)
 
-## Community
-+ [NYC Infosec](https://www.nyc-infosec.com/)
+## community
++ [nyc infosec](https://www.nyc-infosec.com/)
 
-## Decryption Tools
-+ [Collection of Online Decryption Tools](https://www.dcode.fr/tools-list)
-+ [Hash Cracker](https://hashkiller.co.uk/)
+## decryption tools
++ [collection of online decryption tools](https://www.dcode.fr/tools-list)
++ [hash cracker](https://hashkiller.co.uk/)
 
-## Guides
-+ [CodePath Web Security Guide](https://guides.codepath.com/websecurity/)
-+ [Trail of Bits' CTF Guide](https://trailofbits.github.io/ctf/)
+## guides
++ [codepath web security guide](https://guides.codepath.com/websecurity/)
++ [trail of bits' ctf guide](https://trailofbits.github.io/ctf/)
 
-## Hacking Practice
-+ [CTF Time](https://ctftime.org/)
-+ [Hack This Site](https://www.hackthissite.org/)
-+ [HackerOne - Bug Bounties](https://www.hackerone.com/)
-+ [Metasploitable3](https://github.com/rapid7/metasploitable3)
-+ [VulnHub](https://www.vulnhub.com/)
+## hacking practice
++ [ctf time](https://ctftime.org/)
++ [hack this site](https://www.hackthissite.org/)
++ [hackerone - bug bounties](https://www.hackerone.com/)
++ [metasploitable3](https://github.com/rapid7/metasploitable3)
++ [vulnhub](https://www.vulnhub.com/)
