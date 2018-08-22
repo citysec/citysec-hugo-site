@@ -48,26 +48,21 @@ github = "citysec"
 #  telegram = "username"
 
 [[menu.main]]
-    name = "Blog"
+    name = "blog"
     url = ""
     weight = 1
 
 [[menu.main]]
-    name = "Events"
+    name = "events"
     url = "page/events/"
     weight = 2
 
 [[menu.main]]
-    name = "Resources"
+    name = "resources"
     url = "page/resources/"
     weight = 3
 
 [[menu.main]]
-    name = "About"
+    name = "about"
     url = "page/about/"
     weight = 4
-
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 5
