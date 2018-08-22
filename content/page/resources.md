@@ -1,16 +1,24 @@
 ---
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Resources
+subtitle: ...because reading is what? Fundemental.
 comments: false
 ---
+![Rupaul The Library Is Open](/img/rupaul-library-is-open.gif)
 
-My name is Inigo Montoya. I have the following qualities:
+## Community
++ [NYC Infosec](https://www.nyc-infosec.com/)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Decryption Tools
++ [Collection of Online Decryption Tools](https://www.dcode.fr/tools-list)
++ [Hash Cracker](https://hashkiller.co.uk/)
 
-What else do you need?
+## Guides
++ [CodePath Web Security Guide](https://guides.codepath.com/websecurity/)
++ [Trail of Bits' CTF Guide](https://trailofbits.github.io/ctf/)
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Hacking Practice
++ [CTF Time](https://ctftime.org/)
++ [Hack This Site](https://www.hackthissite.org/)
++ [HackerOne - Bug Bounties](https://www.hackerone.com/)
++ [Metasploitable3](https://github.com/rapid7/metasploitable3)
++ [VulnHub](https://www.vulnhub.com/)
