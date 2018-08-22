@@ -1,7 +1,7 @@
 baseURL = "https://citysec.nyc/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "citySec"
+title = "#citySec"
 theme = "beautifulhugo"
 enableEmoji = true
 
@@ -22,7 +22,7 @@ pygmentsCodefencesGuessSyntax = true
   favicon = "/img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
-  rss = true
+  rss = false
   comments = true
   readingTime = true
   useHLJS = true
@@ -30,7 +30,7 @@ pygmentsCodefencesGuessSyntax = true
   gcse = "009810452597696223009:mpr435y0lus" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 [[Params.bigimg]]
-  src = "img/circuit-board-top-bar.jpg"
+  src = "img/sphere.jpg"
   #desc = "Sphere"
   position = "center top"     # position: see values of CSS background-position.
 
