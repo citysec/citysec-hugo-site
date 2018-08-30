@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on #citySec</title>
+    <link>https://citysec.nyc/page/</link>
+    <description>Recent content in Pages on #citySec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://citysec.nyc/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>https://citysec.nyc/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://citysec.nyc/page/about/</guid>
+      <description>what we be about citySec was formed in the summer of 2018 to provide an ongoing outlet for the growing cybersecurity demand and presence at City College.
+citySec is a collective of cybersecurity enthusiasts. 💻
+citySec is for everyone. 👥
+citySec is fun&amp;hellip; 🎡
+so have fun with it! 🎉
+contact Please join our slack channel</description>
+    </item>
+    
+    <item>
+      <title>events</title>
+      <link>https://citysec.nyc/page/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://citysec.nyc/page/events/</guid>
+      <description> weekly meeting info  1st meet on Wednesday, September 19th, 2018 weekly on wednesdays 6:30p - 9p check slack channel for location  special events  none yet  </description>
+    </item>
+    
+    <item>
+      <title>resources</title>
+      <link>https://citysec.nyc/page/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://citysec.nyc/page/resources/</guid>
+      <description> community  nyc infosec  decryption tools  collection of online decryption tools hash cracker  guides  codepath web security guide trail of bits&amp;rsquo; ctf guide  hacking practice  ctf time hack this site hackerone - bug bounties metasploitable3 vulnhub  </description>
+    </item>
+    
+  </channel>
+</rss>

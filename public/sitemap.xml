@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://citysec.nyc/post/2018-08-22-things-to-come/</loc>
+    <lastmod>2018-08-22T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://citysec.nyc/</loc>
+    <lastmod>2018-08-22T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://citysec.nyc/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://citysec.nyc/tags/events/</loc>
+    <lastmod>2018-08-22T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://citysec.nyc/tags/linux/</loc>
+    <lastmod>2018-08-22T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://citysec.nyc/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://citysec.nyc/tags/plans/</loc>
+    <lastmod>2018-08-22T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://citysec.nyc/post/</loc>
+    <lastmod>2018-08-22T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://citysec.nyc/tags/</loc>
+    <lastmod>2018-08-22T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://citysec.nyc/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://citysec.nyc/page/events/</loc>
+  </url>
+  
+  <url>
+    <loc>https://citysec.nyc/page/resources/</loc>
+  </url>
+  
+</urlset>
