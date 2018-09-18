@@ -27,7 +27,6 @@ pygmentsCodefencesGuessSyntax = true
   readingTime = true
   useHLJS = true
   socialShare = true
-  gcse = "009810452597696223009:mpr435y0lus" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 [[Params.bigimg]]
   src = "img/sphere.jpg"
