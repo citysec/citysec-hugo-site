@@ -6,15 +6,24 @@
     <description>Recent content in Posts on #citySec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Sep 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://citysec.nyc/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Things to Come</title>
+      <title>meeting_01</title>
+      <link>https://citysec.nyc/post/2018-09-27-meeting-01/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://citysec.nyc/post/2018-09-27-meeting-01/</guid>
+      <description>Meeting 1 Recap 🎉 We started out by covering some pros &amp;amp; cons for different linux distros. The main ideas were that Ubuntu is a great daily driver while still learning the nuances of linux. Ubuntu allows you to explore the depths of linux while still offering a safe haven to return to when things get scary. 😱 It may be tempting to jump straight into Arch or Kali linux when practicing web security, but it&amp;rsquo;s more important to use your new favorite OS as your default computer and not as a specialty app that you just need for some wifi cracking.</description>
+    </item>
+    
+    <item>
+      <title>things_to_come</title>
       <link>https://citysec.nyc/post/2018-08-22-things-to-come/</link>
-      <pubDate>Tue, 11 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 -0500</pubDate>
       
       <guid>https://citysec.nyc/post/2018-08-22-things-to-come/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://citysec.nyc/img/things-to-come-stars-300.jpg&#34; alt=&#34;things to come soon&#34; /&gt;&lt;/p&gt;
