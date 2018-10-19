@@ -1,0 +1,25 @@
+---
+- hosts: all
+  tasks:
+      - name: Generate Local Site
+        delegate_to: localhost
+        shell: hugo
+        args:
+            chdir: "{{ hugo_local_dir }}"
+
+      - name: Zip up fresh Hugo public files
+        delegate_to: localhost
+        archive:
+            path: "{{ hugo_local_dir }}/public"
+            dest: "{{ hugo_local_dir }}/public/public.tgz"
+
+      - name: Upload & Unzip public.tgz to remote server public folder
+        unarchive:
+            src: "{{ hugo_local_dir }}/public/public.tgz"
+            dest: "{{ hugo_remote_dir }}"
+
+      - name: Delete public.tgz on local server
+        delegate_to: localhost
+        file:
+            path: "{{ hugo_local_dir }}/public/public.tgz"
+            state: absent
