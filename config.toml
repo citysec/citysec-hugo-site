@@ -23,11 +23,10 @@ pygmentsCodefencesGuessSyntax = true
   dateFormat = "January 2, 2006"
   commit = false
   rss = false
-  comments = true
+  comments = false
   readingTime = true
   useHLJS = true
   socialShare = true
-  gcse = "009810452597696223009:mpr435y0lus" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 [[Params.bigimg]]
   src = "img/circuit-board-top-bar-bw.jpg" # circuit-bkg.jpg

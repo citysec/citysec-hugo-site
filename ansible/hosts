@@ -1,0 +1,6 @@
+[remote]
+citysec.nyc
+
+[remote:vars]
+hugo_local_dir=
+hugo_remote_dir=

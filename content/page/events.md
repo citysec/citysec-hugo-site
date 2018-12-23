@@ -1,6 +1,7 @@
 ---
 title: events
 comments: false
+emoji: true
 ---
 ## hack with us
 ### weekly meeting info (TBD)
