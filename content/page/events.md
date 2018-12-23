@@ -2,11 +2,24 @@
 title: events
 comments: false
 ---
+## hack with us
+### weekly meeting info (TBD)
 
-## weekly meeting info
-+ 1st meet on Wednesday, September 19th, 2018
-+ **weekly on wednesdays 6:30p - 9p**
-+ check [slack channel](https://join.slack.com/t/citysecnyc/shared_invite/enQtMzk1NTcyMDQxODkwLTY1NmE2MDZkZjJhZWIxNGNmNWVjMjUwNDc3M2I3YmRiYmQ0NDBlMjk0Zjc4MzNhY2JiYjUzMWNmYTE0MjkyYzI) for location
+## hack with the community
+### nyc chapter meetings
++ [2600](http://nyc2600.net/about/)
++ [Empire Hacking](https://www.meetup.com/Empire-Hacking/)
++ [NYSEC](https://twitter.com/nysecsec)
++ [New York CryptoParty Network](https://www.meetup.com/New-York-Cryptoparty-Network/)
++ [DEFCON201](https://medium.com/@defcon201)
++ [NCC Group Security Forum](https://www.meetup.com/NCCOpenForumNYC/)
 
-## special events
-+ none yet
+### conferences (presentations are recorded and published on YouTube)
++ [HOPE](https://hope.net/)
++ [BSidesNYC](https://bsidesnyc.org/)
++ [SummerCon](https://www.summercon.org/)
++ [CSAW](https://csaw.engineering.nyu.edu/) * free
++ [THOTCon](https://thotcon.org/) * got a great deal for students
+
+### hackerspaces
++ [NYC Resistor](https://www.eventbrite.com/o/nyc-resistor-52408308)
