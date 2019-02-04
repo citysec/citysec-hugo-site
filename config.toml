@@ -16,27 +16,27 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-  #homeTitle = "#citySec" # Set a different text for the header on the home page
-  #subtitle = "you're a hacker now baby"
+  homeTitle = "#citySec" # Set a different text for the header on the home page
+  subtitle = "you're a hacker now baby"
   logo = "/img/lock-icon-avatar-bw-422x422.png"
   favicon = "/img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
   rss = false
   comments = false
-  readingTime = true
+  readingTime = false
   useHLJS = true
   socialShare = true
 
 [[Params.bigimg]]
-  src = "img/circuit-board-top-bar-bw.jpg" # circuit-bkg.jpg
+  src = "img/bkgc1.gif"
   #desc = "Sphere"
   position = "center top"     # position: see values of CSS background-position.
 
 [Author]
 #  name = "Some Person"
 #  website = "yourwebsite.com"
-#  email = "youremail@domain.com"
+email = "citysec@protonmail.com"
 github = "citysec"
 #  gitlab = "username"
 #  bitbucket = "username"

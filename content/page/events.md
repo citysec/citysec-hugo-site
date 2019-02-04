@@ -4,7 +4,15 @@ comments: false
 emoji: true
 ---
 ## hack with us
-### weekly meeting info (TBD)
+### meeting info
+
+#### General Body Meetings (Steinman Hall 2M5-2)
++ Thursday, February 7
++ Thursday, March 21
++ Thursday, May 2
+
+#### Club Office hours (Shepherd Hall 277 next to the CAISS research center)
+Thursdays 12:00p - 1:45p
 
 ## hack with the community
 ### nyc chapter meetings

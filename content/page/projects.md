@@ -1,19 +1,25 @@
 ---
-title: projects
+title: team projects
 comments: false
 ---
-## NetSec
+** If you have a project you wish to advertise for collaboration, email us at citysec@protonmail.com and we'll add you to the list!
 
-## AppSec
+## join a team, push some code, and hack:
 
-## Hardware Hacking ~ Embedded Systems
+### NetSec
 
-## Reverse Engineering
+### AppSec
 
-## Social Engineering
+### Operating Systems (kernel-level and user-level)
 
-## Malware Analysis
+### Hardware Hacking
 
-## Cryptography
+### Reverse Engineering
 
-## Machine Learning
+### Malware Analysis
+
+### Cryptography
+
+### Open Source
+
+### Red Team vs. Blue team

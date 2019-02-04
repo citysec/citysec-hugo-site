@@ -3,7 +3,7 @@ title: resources
 subtitle: ...because reading is what? fundamental.
 comments: false
 ---
-![rupaul the library is open](/img/rupaul-library-is-open.gif)
+![the library is open](/img/rupaul-library-is-open.gif)
 
 ## the hacker way
 + [Build a Successful Career in Infosec](https://danielmiessler.com/blog/build-successful-infosec-career/)
@@ -11,6 +11,7 @@ comments: false
 + [Become a Bug Bounty Hunter](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102)
 + [Security Roles](https://cdn.discordapp.com/attachments/397055174260031488/400383361442512906/1337list_hires.png)
 + [Get into Security Engineering](https://noncombatant.org/2016/06/20/get-into-security-engineering/)
++ [Security Roles w/ more detail](https://www.cybersecurityeducation.org/careers/)
 
 ## protect your data
 + [Check if you've been compromised in a data breach](https://haveibeenpwned.com/)
