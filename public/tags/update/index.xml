@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Update on #citySec</title>
+    <link>https://citysec.nyc/tags/update/</link>
+    <description>Recent content in Update on #citySec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>citysec@protonmail.com</managingEditor>
+    <webMaster>citysec@protonmail.com</webMaster>
+    <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://citysec.nyc/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>we_have_returned</title>
+      <link>https://citysec.nyc/post/2019-01-16-we-have-returned/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      <author>citysec@protonmail.com</author>
+      <guid>https://citysec.nyc/post/2019-01-16-we-have-returned/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://citysec.nyc/img/att.gif&#34; alt=&#34;big announcement&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We did a test trial last semester to weigh in on the interest in security. It was mostly during the evenings that we kept our meetings BUT, back by popular demand, we are having our meetings on Thursdays during club hours 🎉&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

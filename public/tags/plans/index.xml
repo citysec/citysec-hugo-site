@@ -6,6 +6,8 @@
     <description>Recent content in Plans on #citySec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>citysec@protonmail.com</managingEditor>
+    <webMaster>citysec@protonmail.com</webMaster>
     <lastBuildDate>Wed, 22 Aug 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://citysec.nyc/tags/plans/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>things_to_come</title>
       <link>https://citysec.nyc/post/2018-08-22-things-to-come/</link>
       <pubDate>Wed, 22 Aug 2018 00:00:00 -0500</pubDate>
-      
+      <author>citysec@protonmail.com</author>
       <guid>https://citysec.nyc/post/2018-08-22-things-to-come/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://citysec.nyc/img/things-to-come-stars-300.jpg&#34; alt=&#34;things to come soon&#34; /&gt;&lt;/p&gt;
 

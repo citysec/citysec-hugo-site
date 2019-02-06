@@ -6,6 +6,8 @@
     <description>Recent content in Notes on #citySec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>citysec@protonmail.com</managingEditor>
+    <webMaster>citysec@protonmail.com</webMaster>
     <lastBuildDate>Thu, 27 Sep 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://citysec.nyc/tags/notes/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>meeting_01</title>
       <link>https://citysec.nyc/post/2018-09-27-meeting-01/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 -0500</pubDate>
-      
+      <author>citysec@protonmail.com</author>
       <guid>https://citysec.nyc/post/2018-09-27-meeting-01/</guid>
       <description>Meeting 1 Recap 🎉 We started out by covering some pros &amp;amp; cons for different linux distros. The main ideas were that Ubuntu is a great daily driver while still learning the nuances of linux. Ubuntu allows you to explore the depths of linux while still offering a safe haven to return to when things get scary. 😱 It may be tempting to jump straight into Arch or Kali linux when practicing web security, but it&amp;rsquo;s more important to use your new favorite OS as your default computer and not as a specialty app that you just need for some wifi cracking.</description>
     </item>

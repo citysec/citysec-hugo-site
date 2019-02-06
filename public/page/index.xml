@@ -6,6 +6,8 @@
     <description>Recent content in Pages on #citySec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>citysec@protonmail.com</managingEditor>
+    <webMaster>citysec@protonmail.com</webMaster>
     
 	<atom:link href="https://citysec.nyc/page/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +16,7 @@
       <title>about</title>
       <link>https://citysec.nyc/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>citysec@protonmail.com</author>
       <guid>https://citysec.nyc/page/about/</guid>
       <description>what we be about citySec was formed in the summer of 2018 to provide an ongoing outlet for the growing cybersecurity demand and presence at City College.
 citySec is a collective of cybersecurity enthusiasts. 💻
@@ -28,36 +30,38 @@ contact Please join our slack channel</description>
       <title>careers</title>
       <link>https://citysec.nyc/page/careers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>citysec@protonmail.com</author>
       <guid>https://citysec.nyc/page/careers/</guid>
-      <description> internships  NCC Group * opens late in December Trail of Bits Mozilla Google MITRE Fireeye Outreachy * open source Google Summer of Code * open source Facebook PayPal Coinbase  interview prep (behavioral)  Questions to Ask in a Interview  </description>
+      <description> internships  NCC Group * opens late in December Trail of Bits Mozilla Google MITRE Fireeye Outreachy * open source Google Summer of Code * open source Facebook PayPal Coinbase The New York Times Synopsys and more&amp;hellip;  interview prep (behavioral-general)  Questions to Ask in a Interview Interview Questions  interview prep (behavioral-technical)  Security Interview Questions 1 Security Interview Questions 2 Security Interview Questions 3  </description>
     </item>
     
     <item>
       <title>events</title>
       <link>https://citysec.nyc/page/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>citysec@protonmail.com</author>
       <guid>https://citysec.nyc/page/events/</guid>
-      <description> hack with us weekly meeting info (TBD) hack with the community nyc chapter meetings  2600 Empire Hacking NYSEC New York CryptoParty Network DEFCON201 NCC Group Security Forum  conferences (presentations are recorded and published on YouTube)  HOPE BSidesNYC SummerCon CSAW * free THOTCon * got a great deal for students  hackerspaces  NYC Resistor  </description>
-    </item>
-    
-    <item>
-      <title>projects</title>
-      <link>https://citysec.nyc/page/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://citysec.nyc/page/projects/</guid>
-      <description> NetSec AppSec Hardware Hacking ~ Embedded Systems Reverse Engineering Social Engineering Malware Analysis Cryptography Machine Learning </description>
+      <description> hack with us meeting info General Body Meetings (Steinman Hall 2M5-2)  Thursday, February 7 Thursday, March 21 Thursday, May 2  Club Office hours (Shepherd Hall 277 next to the CAISS research center) Thursdays 12:00p - 1:45p
+hack with the community nyc chapter meetings  2600 Empire Hacking NYSEC New York CryptoParty Network DEFCON201 NCC Group Security Forum  conferences (presentations are recorded and published on YouTube)  HOPE BSidesNYC SummerCon CSAW * free THOTCon * got a great deal for students  hackerspaces  NYC Resistor  </description>
     </item>
     
     <item>
       <title>resources</title>
       <link>https://citysec.nyc/page/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>citysec@protonmail.com</author>
       <guid>https://citysec.nyc/page/resources/</guid>
-      <description> the hacker way  Build a Successful Career in Infosec Become a Hacker Become a Bug Bounty Hunter Security Roles Get into Security Engineering  protect your data  Check if you&amp;rsquo;ve been compromised in a data breach protect yourself and your data online  blogs  #hacking on Medium  decryption tools  collection of online decryption tools hash cracker  guides  codepath web security guide trail of bits&amp;rsquo; ctf guide nyc infosec Cybrary  hacking practice  ctf time hack this site hackerone - bug bounties metasploitable3 vulnhub OverTheWire CTF List  </description>
+      <description> the hacker way  Build a Successful Career in Infosec Become a Hacker Become a Bug Bounty Hunter Security Roles Get into Security Engineering Security Roles w/ more detail  protect your data  Check if you&amp;rsquo;ve been compromised in a data breach protect yourself and your data online  blogs  #hacking on Medium  decryption tools  collection of online decryption tools hash cracker  guides  codepath web security guide trail of bits&amp;rsquo; ctf guide nyc infosec Cybrary  hacking practice  ctf time hack this site hackerone - bug bounties metasploitable3 vulnhub OverTheWire CTF List  </description>
+    </item>
+    
+    <item>
+      <title>team projects</title>
+      <link>https://citysec.nyc/page/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>citysec@protonmail.com</author>
+      <guid>https://citysec.nyc/page/projects/</guid>
+      <description> ** If you have a project you wish to advertise for collaboration, email us at citysec@protonmail.com and we&amp;rsquo;ll add you to the list!
+join a team, push some code, and hack: NetSec AppSec Operating Systems (kernel-level and user-level) Hardware Hacking Reverse Engineering Malware Analysis Cryptography Open Source Red Team vs. Blue team </description>
     </item>
     
   </channel>
