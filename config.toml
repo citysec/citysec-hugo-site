@@ -75,3 +75,8 @@ github = "citysec"
     name = "about"
     url = "page/about/"
     weight = 6
+
+[[menu.main]]
+    name = "contact us"
+    url = "page/contact/"
+    weight = 7

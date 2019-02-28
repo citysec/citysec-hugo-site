@@ -4,15 +4,23 @@ comments: false
 emoji: true
 ---
 ## hack with us
-### meeting info
-
-#### General Body Meetings (Steinman Hall 2M5-2)
+### General Body Meetings (Steinman Hall 2M5-2)
 + Thursday, February 7
 + Thursday, March 21
 + Thursday, May 2
 
-#### Club Office hours (Shepherd Hall 277 next to the CAISS research center)
-Thursdays 12:00p - 1:45p
+### Club Office hours (Shepherd Hall 277 next to the CAISS research center)
+Thursdays 12:00p - 1:45p (We'll let you know if anything changes)
+
+### Collegiate Competitions
++ National Collegiate Penetration Testing Competition
++ National Cyber League (CTF)
++ Global Cyberlympics
++ National Collegiate Cyber Defense Competition
++ MITRE Cyber Academy (CTF)
++ Panoply (NetSec)
++ NYU's CSAW (CTF)
++ all other competitions can be found [here](https://ctftime.org/)
 
 ## hack with the community
 ### nyc chapter meetings
@@ -32,3 +40,5 @@ Thursdays 12:00p - 1:45p
 
 ### hackerspaces
 + [NYC Resistor](https://www.eventbrite.com/o/nyc-resistor-52408308)
++ [Fat Cat Fab Lab](https://www.fatcatfablab.org/)
++ [Hack Manhattan](https://hackmanhattan.com/)
