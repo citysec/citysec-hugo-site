@@ -5,7 +5,7 @@ date: 2019-01-16
 tags: ["events", "update"]
 ---
 
-![big announcement](/img/att.gif)
+![big announcement](/img/surprise.gif)
 
 We did a test trial last semester to weigh in on the interest in security. It was mostly during the evenings that we kept our meetings BUT, back by popular demand, we are having our meetings on Thursdays during club hours :tada:
 <!--more-->
