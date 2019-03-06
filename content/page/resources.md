@@ -3,7 +3,7 @@ title: resources
 subtitle: ...because reading is what? fundamental.
 comments: false
 ---
-![the library is open](/img/learning.gif)
+![the library is open](/img/monkey-read.gif)
 
 ## the hacker way
 + [Build a Successful Career in Infosec](https://danielmiessler.com/blog/build-successful-infosec-career/)

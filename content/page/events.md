@@ -9,8 +9,13 @@ emoji: true
 + Thursday, March 21
 + Thursday, May 2
 
-### Club Office hours (Shepherd Hall 277 next to the CAISS research center)
-Thursdays 12:00p - 1:45p (We'll let you know if anything changes)
+### Club Office hours (Shepherd Hall 277)
++ Thursdays 12:30p - 1:45p
+
+``
+There's no office hours on Thursday March 7
+``
+
 
 ### Collegiate Competitions
 + National Collegiate Penetration Testing Competition

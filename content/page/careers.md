@@ -4,6 +4,7 @@ comments: false
 ---
 ## internships
 + [NCC Group](https://www.nccgroup.trust/us/) * opens late in December
++ [Optiv](https://www.optiv.com/join-optiv-team)
 + [Trail of Bits](https://www.trailofbits.com/)
 + [Mozilla](https://www.mozilla.org/en-US/)
 + [Google](https://careers.google.com/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&company=Google&company=YouTube&employment_type=INTERN&jex=ENTRY_LEVEL&q=security)
