@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>citysec@protonmail.com</managingEditor>
     <webMaster>citysec@protonmail.com</webMaster>
-    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://citysec.nyc/tags/meeting/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>new_developments</title>
+      <link>https://citysec.nyc/post/2019-02-27-new-developments/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <author>citysec@protonmail.com</author>
+      <guid>https://citysec.nyc/post/2019-02-27-new-developments/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://citysec.nyc/img/k-heart.png&#34; alt=&#34;saranghae&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I want to give a special shout-out to the real OGs that came to office hours last week and helped out with the planning to make the club interesting.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>meeting_01</title>
