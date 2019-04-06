@@ -36,7 +36,7 @@ pygmentsCodefencesGuessSyntax = true
 [Author]
   name = "Chantelle"
 #  website = "yourwebsite.com"
-email = "citysec@protonmail.com"
+# email = ""
 #  github = "citysec"
 #  gitlab = "username"
 #  bitbucket = "username"
