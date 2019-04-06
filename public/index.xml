@@ -6,29 +6,43 @@
     <description>Recent content on #citySec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>citysec@protonmail.com</managingEditor>
-    <webMaster>citysec@protonmail.com</webMaster>
-    <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <managingEditor>citysec@protonmail.com (Chantelle)</managingEditor>
+    <webMaster>citysec@protonmail.com (Chantelle)</webMaster>
+    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://citysec.nyc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>new_developments</title>
+      <link>https://citysec.nyc/post/2019-02-27-new-developments/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <author>citysec@protonmail.com (Chantelle)</author>
+      <guid>https://citysec.nyc/post/2019-02-27-new-developments/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://citysec.nyc/img/k-heart.png&#34; alt=&#34;saranghae&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I want to give a special shout-out to the real gucci gang that came to office hours last week and helped out with the planning to make the club interesting.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>we_have_returned</title>
       <link>https://citysec.nyc/post/2019-01-16-we-have-returned/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
-      <author>citysec@protonmail.com</author>
+      <author>citysec@protonmail.com (Chantelle)</author>
       <guid>https://citysec.nyc/post/2019-01-16-we-have-returned/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://citysec.nyc/img/att.gif&#34; alt=&#34;big announcement&#34; /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://citysec.nyc/img/surprise.gif&#34; alt=&#34;big announcement&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;We did a test trial last semester to weigh in on the interest in security. It was mostly during the evenings that we kept our meetings BUT, back by popular demand, we are having our meetings on Thursdays during club hours 🎉&amp;hellip;&lt;/p&gt;</description>
+&lt;p&gt;We did a test trial last semester to weigh in on the interest in security. It was mostly during the evenings that we kept our meetings BUT, back by popular demand, we are having our meetings on Thursdays during club hours 🎉
+&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>meeting_01</title>
       <link>https://citysec.nyc/post/2018-09-27-meeting-01/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 -0500</pubDate>
-      <author>citysec@protonmail.com</author>
+      <author>citysec@protonmail.com (Chantelle)</author>
       <guid>https://citysec.nyc/post/2018-09-27-meeting-01/</guid>
       <description>Meeting 1 Recap 🎉 We started out by covering some pros &amp;amp; cons for different linux distros. The main ideas were that Ubuntu is a great daily driver while still learning the nuances of linux. Ubuntu allows you to explore the depths of linux while still offering a safe haven to return to when things get scary. 😱 It may be tempting to jump straight into Arch or Kali linux when practicing web security, but it&amp;rsquo;s more important to use your new favorite OS as your default computer and not as a specialty app that you just need for some wifi cracking.</description>
     </item>
@@ -37,53 +51,54 @@
       <title>things_to_come</title>
       <link>https://citysec.nyc/post/2018-08-22-things-to-come/</link>
       <pubDate>Wed, 22 Aug 2018 00:00:00 -0500</pubDate>
-      <author>citysec@protonmail.com</author>
+      <author>citysec@protonmail.com (Chantelle)</author>
       <guid>https://citysec.nyc/post/2018-08-22-things-to-come/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://citysec.nyc/img/things-to-come-stars-300.jpg&#34; alt=&#34;things to come soon&#34; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;the-inaugural-meeting&#34;&gt;The Inaugural Meeting 🤓&lt;/h3&gt;
 
-&lt;p&gt;We hope you&amp;rsquo;ll join us for our ☝️ 1st meeting on &lt;strong&gt;Wednesday, September 26th at 6:30pm&lt;/strong&gt;. We&amp;rsquo;ll announce the meeting location on the &lt;a href=&#34;https://join.slack.com/t/citysecnyc/shared_invite/enQtMzk1NTcyMDQxODkwLTY1NmE2MDZkZjJhZWIxNGNmNWVjMjUwNDc3M2I3YmRiYmQ0NDBlMjk0Zjc4MzNhY2JiYjUzMWNmYTE0MjkyYzI&#34;&gt;Slack channel&lt;/a&gt;&amp;hellip;&lt;/p&gt;</description>
+&lt;p&gt;We hope you&amp;rsquo;ll join us for our ☝️ 1st meeting on &lt;strong&gt;Wednesday, September 26th at 6:30pm&lt;/strong&gt;. We&amp;rsquo;ll announce the meeting location on the &lt;a href=&#34;https://join.slack.com/t/citysecnyc/shared_invite/enQtMzk1NTcyMDQxODkwLTY1NmE2MDZkZjJhZWIxNGNmNWVjMjUwNDc3M2I3YmRiYmQ0NDBlMjk0Zjc4MzNhY2JiYjUzMWNmYTE0MjkyYzI&#34;&gt;Slack channel&lt;/a&gt;&amp;hellip;
+&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>about</title>
+      <title></title>
       <link>https://citysec.nyc/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>citysec@protonmail.com</author>
+      <author>citysec@protonmail.com (Chantelle)</author>
       <guid>https://citysec.nyc/page/about/</guid>
       <description>what we be about citySec was formed in the summer of 2018 to provide an ongoing outlet for the growing cybersecurity demand and presence at City College.
 citySec is a collective of cybersecurity enthusiasts. 💻
 citySec is for everyone. 👥
 citySec is fun&amp;hellip; 🎡
 so have fun with it! 🎉
-contact Please join our slack channel</description>
+slack Join our slack channel to ask questions or discuss whatever it is you wish to talk about. We&amp;rsquo;ll respond!</description>
     </item>
     
     <item>
       <title>careers</title>
       <link>https://citysec.nyc/page/careers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>citysec@protonmail.com</author>
+      <author>citysec@protonmail.com (Chantelle)</author>
       <guid>https://citysec.nyc/page/careers/</guid>
-      <description> internships  NCC Group * opens late in December Trail of Bits Mozilla Google MITRE Fireeye Outreachy * open source Google Summer of Code * open source Facebook PayPal Coinbase The New York Times Synopsys and more&amp;hellip;  interview prep (behavioral-general)  Questions to Ask in a Interview Interview Questions  interview prep (behavioral-technical)  Security Interview Questions 1 Security Interview Questions 2 Security Interview Questions 3  </description>
+      <description> internships  NCC Group * opens late in December Optiv Trail of Bits Mozilla Google MITRE Fireeye Outreachy * open source Google Summer of Code * open source Facebook PayPal Coinbase The New York Times Synopsys and more&amp;hellip;  interview prep (behavioral-general)  Questions to Ask in a Interview Interview Questions  interview prep (behavioral-technical)  Security Interview Questions 1 Security Interview Questions 2 Security Interview Questions 3  </description>
     </item>
     
     <item>
       <title>events</title>
       <link>https://citysec.nyc/page/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>citysec@protonmail.com</author>
+      <author>citysec@protonmail.com (Chantelle)</author>
       <guid>https://citysec.nyc/page/events/</guid>
-      <description> hack with us meeting info General Body Meetings (Steinman Hall 2M5-2)  Thursday, February 7 Thursday, March 21 Thursday, May 2  Club Office hours (Shepherd Hall 277 next to the CAISS research center) Thursdays 12:00p - 1:45p
-hack with the community nyc chapter meetings  2600 Empire Hacking NYSEC New York CryptoParty Network DEFCON201 NCC Group Security Forum  conferences (presentations are recorded and published on YouTube)  HOPE BSidesNYC SummerCon CSAW * free THOTCon * got a great deal for students  hackerspaces  NYC Resistor  </description>
+      <description> hack with us General Body Meetings (Steinman Hall 2M5-2)  Thursday, February 7 Thursday, March 21 Thursday, May 2  Club Office hours (Shepherd Hall 277)  Thursdays 12:30p - 1:45p   There&#39;s no office hours on Thursday March 7 
+Collegiate Competitions  National Collegiate Penetration Testing Competition National Cyber League (CTF) Global Cyberlympics National Collegiate Cyber Defense Competition MITRE Cyber Academy (CTF) Panoply (NetSec) NYU&amp;rsquo;s CSAW (CTF) all other competitions can be found here  hack with the community nyc chapter meetings  2600 Empire Hacking NYSEC New York CryptoParty Network DEFCON201 NCC Group Security Forum  conferences (presentations are recorded and published on YouTube)  HOPE BSidesNYC SummerCon CSAW * free THOTCon * got a great deal for students  hackerspaces  NYC Resistor Fat Cat Fab Lab Hack Manhattan  </description>
     </item>
     
     <item>
       <title>resources</title>
       <link>https://citysec.nyc/page/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>citysec@protonmail.com</author>
+      <author>citysec@protonmail.com (Chantelle)</author>
       <guid>https://citysec.nyc/page/resources/</guid>
       <description> the hacker way  Build a Successful Career in Infosec Become a Hacker Become a Bug Bounty Hunter Security Roles Get into Security Engineering Security Roles w/ more detail  protect your data  Check if you&amp;rsquo;ve been compromised in a data breach protect yourself and your data online  blogs  #hacking on Medium  decryption tools  collection of online decryption tools hash cracker  guides  codepath web security guide trail of bits&amp;rsquo; ctf guide nyc infosec Cybrary  hacking practice  ctf time hack this site hackerone - bug bounties metasploitable3 vulnhub OverTheWire CTF List  </description>
     </item>
@@ -92,7 +107,7 @@ hack with the community nyc chapter meetings  2600 Empire Hacking NYSEC New York
       <title>team projects</title>
       <link>https://citysec.nyc/page/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>citysec@protonmail.com</author>
+      <author>citysec@protonmail.com (Chantelle)</author>
       <guid>https://citysec.nyc/page/projects/</guid>
       <description> ** If you have a project you wish to advertise for collaboration, email us at citysec@protonmail.com and we&amp;rsquo;ll add you to the list!
 join a team, push some code, and hack: NetSec AppSec Operating Systems (kernel-level and user-level) Hardware Hacking Reverse Engineering Malware Analysis Cryptography Open Source Red Team vs. Blue team </description>

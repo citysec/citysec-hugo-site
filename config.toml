@@ -26,7 +26,7 @@ pygmentsCodefencesGuessSyntax = true
   comments = false
   readingTime = false
   useHLJS = true
-  socialShare = true
+  socialShare = false
 
 [[Params.bigimg]]
   src = "img/bkgc1.gif"
@@ -34,49 +34,41 @@ pygmentsCodefencesGuessSyntax = true
   position = "center top"     # position: see values of CSS background-position.
 
 [Author]
-#  name = "Some Person"
+  name = "Chantelle"
 #  website = "yourwebsite.com"
 email = "citysec@protonmail.com"
-github = "citysec"
+#  github = "citysec"
 #  gitlab = "username"
 #  bitbucket = "username"
-#  twitter = "username"
-#  linkedin = "username"
-#  stackoverflow = "users/XXXXXXX/username"
-#  youtube = "user/username" # or channel/channelname
-#  telegram = "username"
-
-[[menu.main]]
-    name = "blog"
-    url = ""
-    weight = 1
+  twitter = "paranoidprog"
+#  linkedin = ""
 
 [[menu.main]]
     name = "projects"
     url = "page/projects/"
-    weight = 2
+    weight = 4
 
 [[menu.main]]
     name = "careers"
     url = "page/careers/"
-    weight = 3
+    weight = 5
 
 [[menu.main]]
     name = "events"
     url = "page/events/"
-    weight = 4
+    weight = 2
 
 [[menu.main]]
     name = "resources"
     url = "page/resources/"
-    weight = 5
+    weight = 3
 
 [[menu.main]]
     name = "about"
     url = "page/about/"
-    weight = 6
+    weight = 1
 
 [[menu.main]]
-    name = "contact us"
-    url = "page/contact/"
-    weight = 7
+    name = "mailing list"
+    url = "https://protonmail.us20.list-manage.com/subscribe?u=961d81285d786b9d4b77825c2&id=7bbc63dd45"
+    weight = 6

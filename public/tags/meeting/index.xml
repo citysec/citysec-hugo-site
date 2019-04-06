@@ -6,18 +6,31 @@
     <description>Recent content in Meeting on #citySec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>citysec@protonmail.com</managingEditor>
-    <webMaster>citysec@protonmail.com</webMaster>
-    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 -0500</lastBuildDate>
+    <managingEditor>citysec@protonmail.com (Chantelle)</managingEditor>
+    <webMaster>citysec@protonmail.com (Chantelle)</webMaster>
+    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://citysec.nyc/tags/meeting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>new_developments</title>
+      <link>https://citysec.nyc/post/2019-02-27-new-developments/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <author>citysec@protonmail.com (Chantelle)</author>
+      <guid>https://citysec.nyc/post/2019-02-27-new-developments/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://citysec.nyc/img/k-heart.png&#34; alt=&#34;saranghae&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I want to give a special shout-out to the real gucci gang that came to office hours last week and helped out with the planning to make the club interesting.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>meeting_01</title>
       <link>https://citysec.nyc/post/2018-09-27-meeting-01/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 -0500</pubDate>
-      <author>citysec@protonmail.com</author>
+      <author>citysec@protonmail.com (Chantelle)</author>
       <guid>https://citysec.nyc/post/2018-09-27-meeting-01/</guid>
       <description>Meeting 1 Recap 🎉 We started out by covering some pros &amp;amp; cons for different linux distros. The main ideas were that Ubuntu is a great daily driver while still learning the nuances of linux. Ubuntu allows you to explore the depths of linux while still offering a safe haven to return to when things get scary. 😱 It may be tempting to jump straight into Arch or Kali linux when practicing web security, but it&amp;rsquo;s more important to use your new favorite OS as your default computer and not as a specialty app that you just need for some wifi cracking.</description>
     </item>
