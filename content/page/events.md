@@ -6,14 +6,14 @@ emoji: true
 ## hack with us
 ### General Body Meetings (Steinman Hall 2M5-2)
 + Thursday, February 7
-+ Thursday, March 21
++ TBD
 + Thursday, May 2
 
 ### Club Office hours (Shepherd Hall 277)
 + Thursdays 12:30p - 1:45p
 
 ``
-There's no office hours on Thursday March 7
+There's no general body meeting this Thursday March 21. It will be rescheduled. Check again around the beginning of next week for updates
 ``
 
 

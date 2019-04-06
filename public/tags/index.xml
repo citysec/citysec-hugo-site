@@ -9,10 +9,10 @@
     <managingEditor>citysec@protonmail.com (Chantelle)</managingEditor>
     <webMaster>citysec@protonmail.com (Chantelle)</webMaster>
     <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0000</lastBuildDate>
-    
+
 	<atom:link href="https://citysec.nyc/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+
+
     <item>
       <title>Events</title>
       <link>https://citysec.nyc/tags/events/</link>
@@ -21,7 +21,7 @@
       <guid>https://citysec.nyc/tags/events/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Linux</title>
       <link>https://citysec.nyc/tags/linux/</link>
@@ -30,7 +30,7 @@
       <guid>https://citysec.nyc/tags/linux/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Meeting</title>
       <link>https://citysec.nyc/tags/meeting/</link>
@@ -39,7 +39,7 @@
       <guid>https://citysec.nyc/tags/meeting/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Minutes</title>
       <link>https://citysec.nyc/tags/minutes/</link>
@@ -48,7 +48,7 @@
       <guid>https://citysec.nyc/tags/minutes/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Notes</title>
       <link>https://citysec.nyc/tags/notes/</link>
@@ -57,7 +57,7 @@
       <guid>https://citysec.nyc/tags/notes/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Plans</title>
       <link>https://citysec.nyc/tags/plans/</link>
@@ -66,7 +66,7 @@
       <guid>https://citysec.nyc/tags/plans/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Recap</title>
       <link>https://citysec.nyc/tags/recap/</link>
@@ -75,7 +75,7 @@
       <guid>https://citysec.nyc/tags/recap/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Update</title>
       <link>https://citysec.nyc/tags/update/</link>
@@ -84,6 +84,6 @@
       <guid>https://citysec.nyc/tags/update/</guid>
       <description></description>
     </item>
-    
+
   </channel>
 </rss>

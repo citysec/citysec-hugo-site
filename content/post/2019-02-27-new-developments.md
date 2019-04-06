@@ -6,7 +6,7 @@ tags: ["plans", "meeting", "update"]
 ---
 ![saranghae](/img/k-heart.png)
 
-I want to give a special shout-out to the real gucci gang that came to office hours last week and helped out with the planning to make the club interesting.
+I want to give a special shout-out to the real OGs that came to office hours last week and helped out with the planning to make the club interesting.
 
 <!--more-->
 
