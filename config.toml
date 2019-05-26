@@ -36,7 +36,7 @@ pygmentsCodefencesGuessSyntax = true
 [Author]
   name = "Chantelle"
 #  website = "yourwebsite.com"
-# email = ""
+#  email = ""
 #  github = "citysec"
 #  gitlab = "username"
 #  bitbucket = "username"
@@ -44,14 +44,9 @@ pygmentsCodefencesGuessSyntax = true
 #  linkedin = ""
 
 [[menu.main]]
-    name = "projects"
-    url = "page/projects/"
-    weight = 4
-
-[[menu.main]]
     name = "careers"
     url = "page/careers/"
-    weight = 5
+    weight = 4
 
 [[menu.main]]
     name = "events"
@@ -71,4 +66,4 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     name = "mailing list"
     url = "https://protonmail.us20.list-manage.com/subscribe?u=961d81285d786b9d4b77825c2&id=7bbc63dd45"
-    weight = 6
+    weight = 5

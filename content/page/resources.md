@@ -4,15 +4,15 @@ subtitle: ...because reading is what? fundamental.
 comments: false
 ---
 ## the hacker way
-+ [Build a Successful Career in Infosec](https://danielmiessler.com/blog/build-successful-infosec-career/)
-+ [Become a Hacker](http://www.catb.org/esr/faqs/hacker-howto.html#believe4)
-+ [Become a Bug Bounty Hunter](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102)
++ [build a Successful Career in Infosec](https://danielmiessler.com/blog/build-successful-infosec-career/)
++ [become a Hacker](http://www.catb.org/esr/faqs/hacker-howto.html#believe4)
++ [become a Bug Bounty Hunter](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102)
 + [Security Roles](https://cdn.discordapp.com/attachments/397055174260031488/400383361442512906/1337list_hires.png)
-+ [Get into Security Engineering](https://noncombatant.org/2016/06/20/get-into-security-engineering/)
-+ [Security Roles w/ more detail](https://www.cybersecurityeducation.org/careers/)
++ [get into Security Engineering](https://noncombatant.org/2016/06/20/get-into-security-engineering/)
++ [security Roles w/ more detail](https://www.cybersecurityeducation.org/careers/)
 
 ## protect your data
-+ [Check if you've been compromised in a data breach](https://haveibeenpwned.com/)
++ [check if you've been compromised in a data breach](https://haveibeenpwned.com/)
 + [protect yourself and your data online](https://sec.eff.org/topics)
 
 ## blogs
@@ -26,7 +26,7 @@ comments: false
 + [codepath web security guide](https://guides.codepath.com/websecurity/)
 + [trail of bits' ctf guide](https://trailofbits.github.io/ctf/)
 + [nyc infosec](https://www.nyc-infosec.com/)
-+ [Cybrary](https://www.cybrary.it/catalog/)
++ [cybrary](https://www.cybrary.it/catalog/)
 
 ## hacking practice
 + [ctf time](https://ctftime.org/)
@@ -35,4 +35,4 @@ comments: false
 + [metasploitable3](https://github.com/rapid7/metasploitable3)
 + [vulnhub](https://www.vulnhub.com/)
 + [OverTheWire](http://overthewire.org/wargames/bandit/bandit0.html)
-+ [CTF List](http://captf.com/practice-ctf/)
++ [CTFs](http://captf.com/practice-ctf/)

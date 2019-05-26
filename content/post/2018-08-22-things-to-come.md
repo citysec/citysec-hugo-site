@@ -3,7 +3,7 @@ title: "things_to_come"
 subtitle: "./hello_world.sh"
 date: 2018-08-22T00:00:00-05:00
 lastmod: 2018-09-26T00:00:00-05:00
-tags: ["plans", "events", "linux"]
+tags: ["ciysec", "events", "linux"]
 ---
 
 ![things to come soon](/img/things-to-come-stars-300.jpg)

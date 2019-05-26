@@ -2,7 +2,7 @@
 title: "we_have_returned"
 subtitle: "./hello_again_world.sh"
 date: 2019-01-16
-tags: ["events", "update"]
+tags: ["events", "citysec"]
 ---
 
 ![big announcement](/img/surprise.gif)

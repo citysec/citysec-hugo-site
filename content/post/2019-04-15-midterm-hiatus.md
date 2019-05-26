@@ -2,7 +2,7 @@
 title: "midterm_hiatus"
 subtitle: "./spring.py"
 date: 2019-04-15
-tags: ["update"]
+tags: ["update", "citysec"]
 ---
 ![springtime](/img/spring-vibes.gif)
 

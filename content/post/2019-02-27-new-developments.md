@@ -2,7 +2,7 @@
 title: "new_developments"
 subtitle: "./init.el"
 date: 2019-02-27
-tags: ["plans", "meeting", "update"]
+tags: ["citysec", "update"]
 ---
 ![saranghae](/img/k-heart.png)
 

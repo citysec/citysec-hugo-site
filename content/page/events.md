@@ -4,14 +4,6 @@ comments: false
 emoji: true
 ---
 ## hack with us
-### General Body Meetings (Steinman Hall 2M5-2)
-+ Thursday, February 7
-+ Tuesday, April 15
-+ Thursday, May 2
-
-### Club Office hours (Shepherd Hall 277)
-+ Thursdays 12:30p - 1:15p
-
 ### Collegiate Competitions
 + National Collegiate Penetration Testing Competition
 + National Cyber League (CTF)
