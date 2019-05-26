@@ -62,8 +62,3 @@ pygmentsCodefencesGuessSyntax = true
     name = "about"
     url = "page/about/"
     weight = 1
-
-[[menu.main]]
-    name = "mailing list"
-    url = "https://protonmail.us20.list-manage.com/subscribe?u=961d81285d786b9d4b77825c2&id=7bbc63dd45"
-    weight = 5
